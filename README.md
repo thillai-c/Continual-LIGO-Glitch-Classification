@@ -17,7 +17,7 @@ The core of the project uses a **Vision Transformer (ViT)** model alongside othe
 
 ## Architecture
 
-![Architecture Diagram](images\continual.png)
+![Architecture Diagram](images/continual.png)
 
 *Figure 1: Diagram of the continual learning architecture used for LIGO glitch detection.*
 
@@ -84,7 +84,7 @@ Both strategies are implemented using the **Avalanche Continual Learning Framewo
 
 ## Sample Glitch Data Streams
 
-![Sample Glitch Data](images\ligo_data.png)
+![Sample Glitch Data](images/ligo_data.png)
 
 *Figure 2: Example of glitch data streams from the LIGO dataset.*
 
